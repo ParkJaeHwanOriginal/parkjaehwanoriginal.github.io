@@ -36,7 +36,7 @@ Gemini 사용 화면에서 토큰 사용량을 확인할 수 있도록 만든 �
   - 재접속, 새로고침 시 : 전체 영상을 조회하는 것이 아닌, 채널의 영상 총 개수만 조회하는 API를 호출하여 개수를 비교합니다. 개수가 다를 때만 전체 목록을 다시 불러와 데이터를 최신화합니다.
  
 - [GitHub 소스 코드](https://github.com/ParkJaeHwanOriginal/yt_random_picker)
-- [이도원 랜덤 피커](yt-random-picker.vercel.app)
+- [이도원 랜덤 피커](https://yt-random-picker.vercel.app/)
 
 ---
 
